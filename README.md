@@ -10,7 +10,7 @@ namespace QLSinhVien
         public double dtb;
         public DateTime ngaySinh;
 
-        public SinhVien(string ma, string ten, double dtb, DateTime ns)
+     public SinhVien(string ma, string ten, double dtb, DateTime ns)
         {
             masv = ma;
             hoTen = ten;
